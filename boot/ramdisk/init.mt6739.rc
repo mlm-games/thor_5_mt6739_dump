@@ -13,7 +13,6 @@ import init.trustonic.rc
 import init.common_svc.rc
 import init.microtrust.rc
 import init.sensor_bio.rc
-import init.sensor_iio.rc
 import init.sensor.rc
 
 # init.modem.rc must be the LAST rc file because vold.post_fs_data_done is set in it
@@ -253,10 +252,6 @@ on post-fs-data
 
     # RTC
     mkdir /data/misc/rtc 0770 system system
-
-    # I2C Char Dev
-	chown system system /dev/i2c-1
-    chmod 0666 /dev/i2c-1
 
     # M4U
     #insmod /vendor/lib/modules/m4u.ko

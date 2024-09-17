@@ -1,11 +1,11 @@
 base address: 0x40000000
-board name: KY_THOR5_202007
+board name: KY_THOR5_201906
 cmdline: bootopt=64S3,32S1,32S1 buildvariant=user
 dtb offset: None
 header version: 0
 image type: AOSP
 kernel offset: 0x00008000
-original size: 9864096
+original size: 9860000
 os version: 7.1.1
 page size: 2048
 ramdisk compression: gzip

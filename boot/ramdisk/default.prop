@@ -40,6 +40,6 @@ camera.disable_zsl_mode=1
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=2020年 07月 25日 星期六 19:55:18 CST
-ro.bootimage.build.date.utc=1595678118
-ro.bootimage.build.fingerprint=alps/full_KY_C8_LFLT/KY_C8_LFLT:7.1.1/N6F26Q/1595678122:user/test-keys
+ro.bootimage.build.date=2019年 06月 28日 星期五 12:05:22 CST
+ro.bootimage.build.date.utc=1561694722
+ro.bootimage.build.fingerprint=alps/full_KY_C8_LFLT/KY_C8_LFLT:7.1.1/N6F26Q/1561694726:user/test-keys

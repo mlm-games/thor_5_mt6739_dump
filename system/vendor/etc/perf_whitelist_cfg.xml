@@ -11,10 +11,6 @@
             <Activity name="Common">
                 <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0" Param2="416000"/>
         </Package>
-        <Package name="com.witte.highperf">
-            <Activity name="Common">
-                <CMD_SET_CLUSTER_CPU_FREQ_MAX Param1="0" Param2="1001000"/>
-        </Package>
         <Package name="com.imangi.templerun2">
             <Activity name="Common">
                 <CMD_SET_CPU_CORE_MIN Param1="3"/>
